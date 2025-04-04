@@ -77,7 +77,7 @@ pyyaml==6.0.1
 ## 🖥️ Example Output
 
 <div align="center">
-  <img src="/images/Screenshot 2025-04-01 154111.png" alt="Example Output">
+  <img src="/images/image.png" alt="Example Output">
 </div>
 
 ---
